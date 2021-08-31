@@ -48,6 +48,7 @@ body {
   height: 60px;
   width: 60px;
   border-radius: 50px;
+  border: rgba(255, 255, 255, 0.63) 3px solid;
 }
 .draggable-list li.over .draggable {
   background-color: rgba(145, 145, 145, 0.322);
@@ -75,6 +76,7 @@ body {
   justify-content: space-between;
   padding: 15px;
   flex: 1;
+  border-radius: 50px;
 }
 
 .check-btn {
